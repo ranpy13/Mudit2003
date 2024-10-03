@@ -40,6 +40,8 @@ A virtual try-on model based on deep learning for realistic clothing application
 
 ---
 
+[![Mudit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mudit2003)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📫 Let's Connect
 
 - [LinkedIn](https://linkedin.com/in/muditrai03)
