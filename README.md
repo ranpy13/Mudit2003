@@ -65,20 +65,6 @@ A virtual try-on model based on deep learning for realistic clothing application
 
 ---
 
-<style>
-@keyframes bounce {
-  0%, 100% {
-    transform: translateY(0);
-  }
-  50% {
-    transform: translateY(-10px);
-  }
-}
-img {
-  animation: bounce 2s infinite;
-}
-</style>
-
 <div align="center">
   <img src="https://img.shields.io/badge/Let's%20Code!-yellow?style=for-the-badge" />
 </div>
